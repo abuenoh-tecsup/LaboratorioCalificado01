@@ -10,7 +10,6 @@
     android:weightSum="5"
     android:padding="30dp"
     tools:context=".Ejercicio01">
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -25,8 +24,7 @@
             android:layout_weight="1"
             android:text="7"
             android:textSize="20sp"
-            android:background="#ffffff"
-            />
+            android:background="#ffffff" />
 
         <Button
             android:layout_width="0dp"
@@ -45,7 +43,6 @@
             android:textSize="20sp"
             android:background="#ffffff" />
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -79,7 +76,6 @@
             android:textSize="20sp"
             android:background="#ffffff" />
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -113,7 +109,6 @@
             android:textSize="20sp"
             android:background="#ffffff" />
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -140,7 +135,6 @@
             android:layout_height="match_parent"
             android:layout_weight="1" />
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -152,7 +146,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="<-"
+            android:text='-'
             android:textSize="20sp"
             android:background="#ffffff" />
 
@@ -169,7 +163,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:text="->"
+            android:text='->'
             android:textSize="20sp"
             android:background="#ffffff" />
     </LinearLayout>
